@@ -1,0 +1,8 @@
+{
+    "title": [
+      {
+        "pattern": "^PE-\\d+",
+        "message": "Your PR title doesn’t match our schema"
+      }
+    ]
+}
